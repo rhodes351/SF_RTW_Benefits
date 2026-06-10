@@ -3,7 +3,7 @@
 /// Author: Alec P. Rhodes (aprhodes@purdue) 
 /// 
 
-/* Note: Code included only for the main results - based on individual-level ASEC data
+/* Note: Code included only for the main results - based on individual-level ASEC data. Sample includes workers in new and almost RTW states
 	Table 1.
 	Table 2.
 	Figure 2.
